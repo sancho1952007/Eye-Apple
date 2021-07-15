@@ -24,6 +24,9 @@ Or Type **[https://sancho1952007.github.io/Eye-Apple](https://sancho1952007.gith
 - Converted To Html Using : **[forkphorus](https://forkphorus.github.io/)**  ;  
 - Framework Used: **[Nwjs](https://nwjs.io)**  ;  
 
+## Download:-
+Click **[Here](https://drive.google.com/uc?export=download&id=1UZYwYgj2tBq-nHjXEFr4czZ95_fLnKGO)** to Download...
+
 ## Preview?
 You Can Preview the Latest Version it **[Here](https://sancho1952007.github.io/Eye-Apple/latest/ )**  ( Only For PC )  ;    
 
